@@ -26,6 +26,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 1. Set .env first database user, password and so on...
 
-2. php artisan migrate
+2. composer install
 
-3. php artisan db:seed --class=UsersTableSeeder
+3. php artisan migrate
+
+4. php artisan db:seed --class=UsersTableSeeder
